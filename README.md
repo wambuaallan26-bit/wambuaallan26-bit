@@ -60,17 +60,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+# Hi there! 👋
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-##### Hi there! 👋
-
-Hi — I'm **Allan in tech** 👨‍💻, a Data Analyst at **Tetranov industries(My own visual company) **. 📊
+Hey, I'm **Allan in tech** 👨‍💻, a Data Analyst at **Tetranov industries(My own visual company) **. 📊
 
 I turn raw data into clear insights and actionable recommendations. Skilled in Python, SQL, Power BI & Excel — crafting dashboards and analyses that drive smarter decisions. 🚀
 
