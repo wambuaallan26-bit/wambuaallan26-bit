@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -158,4 +159,6 @@ If you publish articles or a personal blog, add the link to your GitHub profile 
 
 ## Connect with Me
 
-{"instagram":"https://www.instagram.com/itsall4n_x/","twitter":"https://x.com/itsall4n_x","youtube":"https://www.youtube.com/@itsall4n_x"}
+{"instagram":"https://www.instagram.com/itsall4n_x/",
+"twitter":"https://x.com/itsall4n_x",
+"youtube":"https://www.youtube.com/@itsall4n_x"}.
